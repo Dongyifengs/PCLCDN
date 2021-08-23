@@ -8,3 +8,5 @@
 
 若有问题请联系我邮箱：dongyifengs@gmial.com
 
+CDN项目链接：[![](https://data.jsdelivr.com/v1/package/gh/dongyifengs/PCLCDN/badge)](https://www.jsdelivr.com/package/gh/dongyifengs/PCLCDN)
+
